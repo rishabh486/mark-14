@@ -1,0 +1,9 @@
+body {
+    text-align:center;
+}
+label {
+    display:block;
+    padding-bottom: 5 rem ;
+    padding:1 rem;
+    display:flex;
+}
